@@ -22,13 +22,13 @@ const categories = [
 	},
 	{
 		id: 4,
-		title: "women's",
+		title: 'women',
 		imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
 		route: 'shop/women',
 	},
 	{
 		id: 5,
-		title: "men's",
+		title: 'men',
 		imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
 		route: 'shop/men',
 	},
